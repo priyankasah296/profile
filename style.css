@@ -48,7 +48,7 @@ img {
 }
 
 .btn-blue {
-  background-color: wheat;
+  background-color: rgb(153, 209, 228);
   color: white;
   text-decoration: none;
   padding: 8px 16px;
@@ -56,7 +56,7 @@ img {
 }
 
 .btn-blue:hover {
-  background-color: lightgrey;
+  background-color: rgb(155, 127, 127);
   cursor: pointer;
 }
 
